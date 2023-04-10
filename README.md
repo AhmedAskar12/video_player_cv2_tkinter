@@ -5,6 +5,6 @@ Video player using tkinter and cv2 python
 
 1- Install tkinter, customtkinter, cv2, PIL.
 
-```pip install tk customtkinter vlc opencv-python Pillow```
+```pip install tk customtkinter opencv-python Pillow```
 
 2 Run the code.

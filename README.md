@@ -1,4 +1,4 @@
-# video_player_cv2_tkinter
+# Quick and simple way to display video using python.
 Video player using tkinter and cv2 python 
 
 # How to
